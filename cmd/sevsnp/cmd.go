@@ -18,7 +18,7 @@ import (
 const (
 	ClassIDByChip = "1.3.6.1.4.1.3704.3.1"
 	ClassIDByCsp  = "1.3.6.1.4.1.3704.3.2"
-	ProfileName   = "http://amd.com/2024/snp-corim-profile"
+	ProfileName   = "tag:amd.com,2025:snp-corim-profile"
 )
 
 var (
