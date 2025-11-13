@@ -235,7 +235,7 @@ func ReportToComid(reportProto *sevsnp.Report, cpu int) (*comid.Comid, error) {
 	m3968.SetSVN(reportProto.GetLaunchTcb())
 	refVal.Measurements.Add(m3968)
 
-	refValComid.Triples.AddReferenceValue(refVal)
+	refValComid.Triples.AddReferenceValue(&refVal)
 
 	err = refValComid.Valid()
 	if err != nil {
