@@ -1,5 +1,7 @@
 fortio.org/safecast v1.0.0 h1:dr3131WPX8iS1pTf76+39WeXbTrerDYLvi9s7Oi3wiY=
 fortio.org/safecast v1.0.0/go.mod h1:xZmcPk3vi4kuUFf+tq4SvnlVdwViqf6ZSZl91Jr9Jdg=
+github.com/THS-on/sev-snp-measure-go v0.0.0-20260211091002-e49dbee322bc h1:YHcbI8x/Sn+YgVvwiGGoTWH+oo27ObSbl/GiaZJUuR8=
+github.com/THS-on/sev-snp-measure-go v0.0.0-20260211091002-e49dbee322bc/go.mod h1:dEkBe8JnxU5itNjZDEQINFd7f7l4DtjfqRuzPQcit4w=
 github.com/cpuguy83/go-md2man/v2 v2.0.4/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -91,10 +93,6 @@ github.com/veraison/go-cose v1.3.0 h1:2/H5w8kdSpQJyVtIhx8gmwPJ2uSz1PkyWFx0idbd7r
 github.com/veraison/go-cose v1.3.0/go.mod h1:df09OV91aHoQWLmy1KsDdYiagtXgyAwAl8vFeFn1gMc=
 github.com/veraison/swid v1.1.1-0.20230911094910-8ffdd07a22ca h1:osmCKwWO/xM68Kz+rIXio1DNzEY2NdJOpGpoy5r8NlE=
 github.com/veraison/swid v1.1.1-0.20230911094910-8ffdd07a22ca/go.mod h1:d5jt76uMNbTfQ+f2qU4Lt8RvWOTsv6PFgstIM1QdMH0=
-github.com/virtee/sev-snp-measure-go v0.0.0-20241128091219-920346c42ecb h1:iBPEloogBk7uK2Ygtz1l6gJabikXs8ASZCmormbn2lM=
-github.com/virtee/sev-snp-measure-go v0.0.0-20241128091219-920346c42ecb/go.mod h1:dEkBe8JnxU5itNjZDEQINFd7f7l4DtjfqRuzPQcit4w=
-github.com/virtee/sev-snp-measure-go v0.0.0-20250623185524-74f52d54c814 h1:6VJflMJ4QmxBqHwj5ZRRyMjalotp+qLiyh2Y4A35Axk=
-github.com/virtee/sev-snp-measure-go v0.0.0-20250623185524-74f52d54c814/go.mod h1:dEkBe8JnxU5itNjZDEQINFd7f7l4DtjfqRuzPQcit4w=
 github.com/x448/float16 v0.8.4 h1:qLwI1I70+NjRFUR3zs1JPUCgaCXSh3SW62uAKT1mSBM=
 github.com/x448/float16 v0.8.4/go.mod h1:14CWIYCyZA/cWjXOioeEpHeN/83MdbZDRQHoFcYsOfg=
 go.uber.org/multierr v1.11.0 h1:blXXJkSxSSfBVBlC76pxqeO+LN3aDfLQo+309xJstO0=
