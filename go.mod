@@ -8,7 +8,7 @@ require (
 	github.com/spf13/viper v1.19.0
 	github.com/veraison/corim v1.1.3-0.20251002172919-3c18c66c77b0
 	github.com/veraison/swid v1.1.1-0.20230911094910-8ffdd07a22ca
-	github.com/virtee/sev-snp-measure-go v0.0.0-20241128091219-920346c42ecb
+	github.com/virtee/sev-snp-measure-go v0.0.0-20250623185524-74f52d54c814
 )
 
 require (
@@ -55,3 +55,5 @@ require (
 go 1.23.0
 
 toolchain go1.23.9
+
+replace github.com/virtee/sev-snp-measure-go => github.com/THS-on/sev-snp-measure-go v0.0.0-20260216133113-5963a48054b5
