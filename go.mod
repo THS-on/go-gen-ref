@@ -1,7 +1,7 @@
 module github.com/jraman567/go-gen-ref
 
 require (
-	github.com/google/go-sev-guest v0.12.1
+	github.com/google/go-sev-guest v0.14.2-0.20251119154202-af1c107a648f
 	github.com/google/uuid v1.6.0
 	github.com/spf13/afero v1.12.0
 	github.com/spf13/cobra v1.8.1
