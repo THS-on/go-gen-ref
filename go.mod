@@ -56,4 +56,4 @@ go 1.23.0
 
 toolchain go1.23.9
 
-replace github.com/virtee/sev-snp-measure-go => github.com/THS-on/sev-snp-measure-go v0.0.0-20260211091002-e49dbee322bc
+replace github.com/virtee/sev-snp-measure-go => github.com/THS-on/sev-snp-measure-go v0.0.0-20260216133113-5963a48054b5
